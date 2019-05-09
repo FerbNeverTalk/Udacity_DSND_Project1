@@ -31,7 +31,7 @@ There are only 1 jupyter notebook file, which includes all the data wrangling pa
 
 # Results
 ---
-The main observation is posted in the blog. To see: [here]()
+The main observation is posted in the blog. To see: [here](https://medium.com/@rtyjklcry/an-analysis-of-salary-for-developers-and-potential-developers-bc5bc4c3d405)
 
 # Licensing, Authors, Acknowledgements
 ---
